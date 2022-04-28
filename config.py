@@ -1,0 +1,6 @@
+TOKEN = "5204971874:AAF6nXqwE4VAHpJDpMWItiRBh3BMSNpzlck"
+URL_MERCEDES = "https://ru.wikipedia.org/wiki/Mercedes-Benz"
+URL_TOYOTA = "https://www.toyotakz.com/"
+URL_KIA = "https://taraz.newauto.kz/cars/kia"
+URL_LEXUS = "https://kolesa.kz/cars/lexus/lx-570/"
+URL_BMW = "https://www.bmw-kz.com/ru/index.html?tl=sea-gl-KZ%20BMW%20BRAND%20SEARCH-mix-miy-.-sech-Generic-.-e-bmw-.-.&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOVitDDi1fbo2_R2tH4i3BhlEh9Yjot9kbzJDdU5-NugTNC26XgRBSAaAlBREALw_wcB"
